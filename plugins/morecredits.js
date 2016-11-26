@@ -1,4 +1,4 @@
 bot-service
-(discredits)
+(credits)
 /"apk"
 /(credit:10000000000000)
